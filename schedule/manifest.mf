@@ -1,2 +1,0 @@
-main-class: edu.csf.oop.java.schedule.console.GlobalInterface
-class-path: bin/ /lib/logback-classic-1.1.9.jar /lib/logback-core-1.1.9.jar /lib/slf4j-api-1.7.22.jar /lib/slf4j-nop-1.7.22.jar
